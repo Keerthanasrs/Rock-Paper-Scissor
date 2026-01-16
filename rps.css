@@ -2,7 +2,7 @@
     margin:0;
     padding:0;
     text-align: center;
-    background-color:#94B4C1;
+    background-color:#acc6d0;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h1{
@@ -20,11 +20,13 @@ h1{
     display:flex;
     justify-content: center;
     align-items: center;
+    margin-top:50px;
 }
 .choice:hover{
 
     cursor: pointer;
     background-color: #213448;
+
 }
 img{
     height:150px;
@@ -56,7 +58,7 @@ img{
 }
 #msg{
     
-    background-color: #081b31;
+    background-color: #566f8b;
     color:#fff;
     font-size:2rem;
     display:inline;
